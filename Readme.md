@@ -69,4 +69,4 @@ La implementación de la funcionalidad **evolucion genetica** se basa en el uso 
 ## 🎯 Creación de un Banco de Agentes
 
 💾 **Generaremos unacarpeta para guardar  el numero de agentes entrenados previamente introducir una variable de cuanto queremos el banco de agentes.
-📌 Posteriormente, aplicaremos criterios más estrictos para seleccionar los mejores modelos y optimizar nuestras estrategias de trading de manera eficiente y automática.
+📌 Posteriormente, aplicaremos criterios más estrictos para seleccionar los mejores modelos y optimizar nuestras estrategias de trading de manera eficiente y automática.# Evolucion_Genetica
