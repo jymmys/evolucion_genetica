@@ -5,7 +5,7 @@ from rich.table import Table
 console = Console()
 
 def test_agent_creation():
-    # Crear un agente
+    # Crear un agente gen
     agent = TradingAgent()
     
     # Mostrar información del agente
