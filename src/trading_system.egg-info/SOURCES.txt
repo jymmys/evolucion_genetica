@@ -1,0 +1,13 @@
+setup.py
+src/config/__init__.py
+src/config/config.py
+src/genetic/__init__.py
+src/genetic/agent.py
+src/genetic/island.py
+src/indicators/__init__.py
+src/indicators/technical.py
+src/trading_system.egg-info/PKG-INFO
+src/trading_system.egg-info/SOURCES.txt
+src/trading_system.egg-info/dependency_links.txt
+src/trading_system.egg-info/requires.txt
+src/trading_system.egg-info/top_level.txt

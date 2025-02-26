@@ -1,0 +1,6 @@
+2025-02-26 05:58:35,478 - TradingSystem - INFO - Iniciando sistema de trading
+2025-02-26 05:58:40,773 - TradingSystem - INFO - Modo seleccionado: 1
+2025-02-26 05:58:40,782 - TradingSystem - INFO - Iniciando modo entrenamiento
+2025-02-26 05:58:40,789 - TradingSystem - INFO - Iniciando ciclo de entrenamiento 1
+2025-02-26 05:59:26,020 - TradingSystem - INFO - Operación interrumpida por el usuario
+2025-02-26 05:59:26,030 - TradingSystem - INFO - Finalizando sistema de trading

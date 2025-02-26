@@ -1,0 +1,10 @@
+2025-02-26 05:21:59,077 - TradingSystem - INFO - Iniciando validación de logs
+2025-02-26 05:21:59,083 - TradingSystem - DEBUG - Mensaje de prueba - DEBUG
+2025-02-26 05:21:59,083 - TradingSystem - INFO - Mensaje de prueba - INFO
+2025-02-26 05:21:59,085 - TradingSystem - WARNING - Mensaje de prueba - WARNING
+2025-02-26 05:21:59,087 - TradingSystem - ERROR - Mensaje de prueba - ERROR
+2025-02-26 05:21:59,088 - TradingSystem - ERROR - Error controlado de prueba
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/scripts/validate_logs.py", line 20, in test_logging
+    raise ValueError("Error de prueba")
+ValueError: Error de prueba

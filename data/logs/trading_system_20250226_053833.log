@@ -1,0 +1,270 @@
+2025-02-26 05:38:33,988 - TradingSystem - INFO - Iniciando sistema de trading
+2025-02-26 05:38:40,249 - TradingSystem - INFO - Modo seleccionado: 1
+2025-02-26 05:38:40,262 - TradingSystem - INFO - Iniciando modo entrenamiento
+2025-02-26 05:38:40,272 - TradingSystem - INFO - Iniciando ciclo de entrenamiento 1
+2025-02-26 05:38:40,281 - TradingSystem - ERROR - Error en generación 0: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:42,350 - TradingSystem - ERROR - Error en generación 1: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:44,366 - TradingSystem - ERROR - Error en generación 2: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:46,382 - TradingSystem - ERROR - Error en generación 3: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:48,398 - TradingSystem - ERROR - Error en generación 4: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:50,414 - TradingSystem - ERROR - Error en generación 5: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:52,442 - TradingSystem - ERROR - Error en generación 6: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:54,458 - TradingSystem - ERROR - Error en generación 7: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:56,474 - TradingSystem - ERROR - Error en generación 8: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:38:58,490 - TradingSystem - ERROR - Error en generación 9: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:00,507 - TradingSystem - ERROR - Error en generación 10: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:02,541 - TradingSystem - ERROR - Error en generación 11: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:04,558 - TradingSystem - ERROR - Error en generación 12: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:06,585 - TradingSystem - ERROR - Error en generación 13: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:08,601 - TradingSystem - ERROR - Error en generación 14: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:10,617 - TradingSystem - ERROR - Error en generación 15: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:12,635 - TradingSystem - ERROR - Error en generación 16: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:14,651 - TradingSystem - ERROR - Error en generación 17: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:16,670 - TradingSystem - ERROR - Error en generación 18: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:18,686 - TradingSystem - ERROR - Error en generación 19: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:20,703 - TradingSystem - ERROR - Error en generación 20: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:22,719 - TradingSystem - ERROR - Error en generación 21: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:24,735 - TradingSystem - ERROR - Error en generación 22: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:26,751 - TradingSystem - ERROR - Error en generación 23: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:28,767 - TradingSystem - ERROR - Error en generación 24: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:30,785 - TradingSystem - ERROR - Error en generación 25: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:32,801 - TradingSystem - ERROR - Error en generación 26: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:34,817 - TradingSystem - ERROR - Error en generación 27: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:36,833 - TradingSystem - ERROR - Error en generación 28: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:38,851 - TradingSystem - ERROR - Error en generación 29: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:40,867 - TradingSystem - ERROR - Error en generación 30: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:42,883 - TradingSystem - ERROR - Error en generación 31: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:44,899 - TradingSystem - ERROR - Error en generación 32: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:46,915 - TradingSystem - ERROR - Error en generación 33: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:48,941 - TradingSystem - ERROR - Error en generación 34: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:50,957 - TradingSystem - ERROR - Error en generación 35: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:52,972 - TradingSystem - ERROR - Error en generación 36: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:55,929 - TradingSystem - ERROR - Error en generación 37: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:57,945 - TradingSystem - ERROR - Error en generación 38: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:39:59,961 - TradingSystem - ERROR - Error en generación 39: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:40:01,977 - TradingSystem - ERROR - Error en generación 40: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:40:03,993 - TradingSystem - ERROR - Error en generación 41: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:40:06,010 - TradingSystem - ERROR - Error en generación 42: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:40:08,029 - TradingSystem - ERROR - Error en generación 43: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/test_dashboard.py", line 85, in run_dashboard
+    best_agent, population_metrics = evolution.evolve_one_generation()
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'EvolutionEngine' object has no attribute 'evolve_one_generation'
+2025-02-26 05:40:08,732 - TradingSystem - INFO - Operación interrumpida por el usuario
+2025-02-26 05:40:11,712 - TradingSystem - INFO - Finalizando sistema de trading

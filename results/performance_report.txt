@@ -1,0 +1,9 @@
+Performance Report
+=================
+Sharpe Ratio: 1.5746
+Profit Factor: 1.0000
+Max Drawdown: 0.00%
+Trades: 98
+
+Indicadores utilizados:
+BB, CCI, RSI, ATR, MACD, ADX

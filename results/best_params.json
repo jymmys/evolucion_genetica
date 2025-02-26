@@ -1,0 +1,8 @@
+{
+    "crossover_prob": 0.924006295695864,
+    "mutation_prob": 0.13293140676054754,
+    "tournament_size": 3,
+    "elite_size": 1,
+    "indicator_mutation_rate": 0.28787484127118546,
+    "weight_mutation_std": 0.10942324864568695
+}

@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: trading_genetic
+Version: 0.1
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: matplotlib>=3.4.0
+Dynamic: requires-dist

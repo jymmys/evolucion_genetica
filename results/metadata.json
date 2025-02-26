@@ -1,0 +1,6977 @@
+{
+  "agents": {
+    "AG-0000-0000": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0000.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7496012004100607
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0000-0001": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0001.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45965210216547214
+      },
+      "indicators": [
+        "STOCH",
+        "BB",
+        "ATR",
+        "ROC",
+        "CCI"
+      ]
+    },
+    "AG-0001-0002": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0002.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.754317127370328
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0001-0003": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0003.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4632465674631053
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "ROC",
+        "STOCH"
+      ]
+    },
+    "AG-0002-0004": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0004.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7560306862519502
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0002-0005": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0005.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4600979563848171
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "ROC",
+        "STOCH"
+      ]
+    },
+    "AG-0003-0006": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0006.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7481165617596881
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0003-0007": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0007.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4564160864648293
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "STOCH",
+        "CCI",
+        "WMA"
+      ]
+    },
+    "AG-0004-0008": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0008.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7492178472143323
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0004-0009": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0009.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46147403037134865
+      },
+      "indicators": [
+        "ATR",
+        "CCI",
+        "MACD",
+        "STOCH",
+        "RSI",
+        "EMA"
+      ]
+    },
+    "AG-0005-0010": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0010.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7630502050134673
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "SMA",
+        "STOCH",
+        "ATR",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0005-0011": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0011.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4705195967422153
+      },
+      "indicators": [
+        "WMA",
+        "MOM",
+        "RSI",
+        "ROC",
+        "BB",
+        "ADX"
+      ]
+    },
+    "AG-0006-0012": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0012.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7940425704424304
+      },
+      "indicators": [
+        "ADX",
+        "EMA",
+        "BB",
+        "RSI",
+        "CCI",
+        "ATR",
+        "MOM",
+        "ROC"
+      ]
+    },
+    "AG-0006-0013": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0013.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.774782094794826
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0007-0014": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0014.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7836375837235523
+      },
+      "indicators": [
+        "ADX",
+        "EMA",
+        "BB",
+        "RSI",
+        "CCI",
+        "ATR",
+        "MOM",
+        "ROC"
+      ]
+    },
+    "AG-0007-0015": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0015.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.773290527676458
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0008-0016": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0016.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7860460493202005
+      },
+      "indicators": [
+        "ADX",
+        "EMA",
+        "BB",
+        "RSI",
+        "CCI",
+        "ATR",
+        "MOM",
+        "ROC"
+      ]
+    },
+    "AG-0008-0017": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0017.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7663857272283505
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0009-0018": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0018.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.773213448037476
+      },
+      "indicators": [
+        "ATR",
+        "ADX",
+        "STOCH",
+        "RSI",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0009-0019": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0019.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7725180981619086
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0010-0020": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0020.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7788377096452571
+      },
+      "indicators": [
+        "ATR",
+        "SMA",
+        "STOCH",
+        "EMA",
+        "RSI"
+      ]
+    },
+    "AG-0010-0021": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0021.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7715934742345588
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0011-0022": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0022.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7779138140822539
+      },
+      "indicators": [
+        "ATR",
+        "ADX",
+        "STOCH",
+        "RSI",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0011-0023": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0023.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7765615240540519
+      },
+      "indicators": [
+        "RSI",
+        "ATR",
+        "EMA",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0012-0024": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0024.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7955679232624081
+      },
+      "indicators": [
+        "STOCH",
+        "ADX",
+        "RSI",
+        "CCI",
+        "SMA",
+        "EMA",
+        "BB",
+        "ROC"
+      ]
+    },
+    "AG-0012-0025": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0025.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7839100782552296
+      },
+      "indicators": [
+        "RSI",
+        "ADX",
+        "SMA",
+        "STOCH",
+        "EMA"
+      ]
+    },
+    "AG-0013-0026": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0026.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7816486826530256
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0013-0027": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0027.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.780216126192095
+      },
+      "indicators": [
+        "RSI",
+        "ADX",
+        "SMA",
+        "STOCH",
+        "EMA"
+      ]
+    },
+    "AG-0014-0028": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0028.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7812783977903581
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0014-0029": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0029.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7804743445969179
+      },
+      "indicators": [
+        "MACD",
+        "ADX",
+        "RSI",
+        "CCI",
+        "STOCH",
+        "SMA",
+        "ATR",
+        "EMA"
+      ]
+    },
+    "AG-0015-0030": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0030.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7901654080036167
+      },
+      "indicators": [
+        "STOCH",
+        "SMA",
+        "ADX",
+        "BB",
+        "ATR",
+        "RSI",
+        "CCI"
+      ]
+    },
+    "AG-0015-0031": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0031.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7856932257854953
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0016-0032": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0032.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7889057540937802
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0016-0033": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0033.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7854489602571988
+      },
+      "indicators": [
+        "CCI",
+        "BB",
+        "ADX",
+        "RSI",
+        "ATR",
+        "STOCH",
+        "SMA"
+      ]
+    },
+    "AG-0017-0034": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0034.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7869706189980997
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0017-0035": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0035.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7826678725506062
+      },
+      "indicators": [
+        "RSI",
+        "BB",
+        "SMA",
+        "STOCH",
+        "CCI",
+        "ATR",
+        "ADX"
+      ]
+    },
+    "AG-0018-0036": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0036.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7913546754151395
+      },
+      "indicators": [
+        "STOCH",
+        "CCI",
+        "ADX",
+        "RSI",
+        "BB",
+        "ATR"
+      ]
+    },
+    "AG-0018-0037": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0037.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7794513440739445
+      },
+      "indicators": [
+        "STOCH",
+        "SMA",
+        "RSI",
+        "ADX"
+      ]
+    },
+    "AG-0019-0038": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0038.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7872241335090777
+      },
+      "indicators": [
+        "CCI",
+        "ATR",
+        "SMA",
+        "RSI",
+        "ADX"
+      ]
+    },
+    "AG-0019-0039": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0039.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7857645819749193
+      },
+      "indicators": [
+        "STOCH",
+        "RSI",
+        "CCI",
+        "ADX",
+        "ATR",
+        "BB"
+      ]
+    },
+    "AG-0020-0040": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0040.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.790579591174085
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "ADX",
+        "STOCH"
+      ]
+    },
+    "AG-0020-0041": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0041.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7877496209946778
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0021-0042": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0042.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7871086193631756
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0021-0043": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0043.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7842256200367318
+      },
+      "indicators": [
+        "STOCH",
+        "RSI",
+        "ADX",
+        "SMA"
+      ]
+    },
+    "AG-0022-0044": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0044.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7934122725951004
+      },
+      "indicators": [
+        "SMA",
+        "CCI",
+        "ATR",
+        "RSI",
+        "ADX"
+      ]
+    },
+    "AG-0022-0045": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0045.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.793384280329174
+      },
+      "indicators": [
+        "STOCH",
+        "ADX",
+        "RSI",
+        "SMA"
+      ]
+    },
+    "AG-0000-0046": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0046.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45583879955653295
+      },
+      "indicators": [
+        "MOM",
+        "MACD",
+        "RSI",
+        "CCI",
+        "STOCH",
+        "EMA",
+        "ADX",
+        "ROC"
+      ]
+    },
+    "AG-0000-0047": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0047.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4557652307400561
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "ATR",
+        "ROC",
+        "STOCH",
+        "RSI"
+      ]
+    },
+    "AG-0001-0048": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0048.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7509835248495756
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0001-0049": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0049.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4610889145004192
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "STOCH",
+        "EMA",
+        "MACD"
+      ]
+    },
+    "AG-0002-0050": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0050.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7556232171111498
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0002-0051": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0051.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4569148968899475
+      },
+      "indicators": [
+        "ROC",
+        "MACD",
+        "STOCH",
+        "RSI",
+        "EMA",
+        "CCI",
+        "ATR"
+      ]
+    },
+    "AG-0003-0052": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0052.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7577123440725025
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0003-0053": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0053.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4547793402519952
+      },
+      "indicators": [
+        "ADX",
+        "SMA",
+        "MACD",
+        "EMA",
+        "CCI"
+      ]
+    },
+    "AG-0004-0054": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0054.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7590760519952373
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0004-0055": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0055.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4536135867063509
+      },
+      "indicators": [
+        "ADX",
+        "SMA",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0005-0056": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0056.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7596440087365277
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0005-0057": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0057.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46724006255673367
+      },
+      "indicators": [
+        "WMA",
+        "CCI",
+        "BB",
+        "ADX",
+        "MACD"
+      ]
+    },
+    "AG-0006-0058": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0058.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7554798972066645
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0006-0059": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0059.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.6231929088431116
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0007-0060": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0060.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7607283126320193
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0007-0061": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0061.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.5865870193697966
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0008-0062": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0062.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7564410608385712
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0008-0063": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0063.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.5846981812976602
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0009-0064": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0064.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7470297833112873
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0009-0065": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0065.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7456042360492249
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0010-0066": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0066.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.755801230597948
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0010-0067": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0067.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.630664408774401
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0011-0068": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0068.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7539506161841447
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0011-0069": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0069.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.5765251807234532
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0012-0070": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0070.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7686273506125881
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0012-0071": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0071.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.5333177856168415
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0013-0072": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0072.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7568715261441287
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0013-0073": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0073.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.649987433166939
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0014-0074": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0074.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7632601054330782
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0014-0075": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0075.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.5446578411044043
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0015-0076": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0076.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.757724691628257
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0015-0077": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0077.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7479187095088117
+      },
+      "indicators": [
+        "MOM",
+        "STOCH",
+        "WMA",
+        "ATR",
+        "CCI",
+        "BB",
+        "EMA",
+        "ADX"
+      ]
+    },
+    "AG-0016-0078": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0078.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7611693037807417
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0016-0079": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0079.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7555921983216266
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0017-0080": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0080.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7531401123186041
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0017-0081": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0081.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7484020627301251
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0018-0082": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0082.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7573461424381663
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0018-0083": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0083.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7490759565552827
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0019-0084": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0084.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7631207555635526
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0019-0085": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0085.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7554907058304403
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0020-0086": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0086.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7606406166171426
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0020-0087": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0087.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7578249952459405
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0021-0088": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0088.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7587848867212668
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0021-0089": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0089.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7568985130541928
+      },
+      "indicators": [
+        "CCI",
+        "MOM",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0022-0090": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0090.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7621142514268603
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0022-0091": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0091.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7584494256017702
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0023-0092": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0092.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7646209399839368
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0023-0093": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0093.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7618937187893705
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0024-0094": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0094.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7653174218774242
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0024-0095": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0095.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.764901919424839
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0025-0096": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0096.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7645824692871784
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0025-0097": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0097.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7643456849879539
+      },
+      "indicators": [
+        "MOM",
+        "BB",
+        "CCI",
+        "EMA"
+      ]
+    },
+    "AG-0026-0098": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0098.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7720417741621425
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0026-0099": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0099.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7670839916497513
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0027-0100": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0100.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7651576737332833
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0027-0101": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0101.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7648156703999134
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0028-0102": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0102.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7693682409804374
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0028-0103": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0103.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7667433475943408
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0029-0104": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0104.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7677414427395786
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0029-0105": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0105.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.764913692974741
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0030-0106": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0106.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7640777167376203
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "EMA",
+        "MOM"
+      ]
+    },
+    "AG-0030-0107": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0107.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7618160385822257
+      },
+      "indicators": [
+        "MOM",
+        "CCI",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0031-0108": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0108.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7697616397172489
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "MOM",
+        "BB"
+      ]
+    },
+    "AG-0031-0109": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0109.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7661239936887083
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0032-0110": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0110.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7649549760578409
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0032-0111": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0111.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7630660689466182
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0033-0112": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0112.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7671968759294869
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0033-0113": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0113.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.765520858895789
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0034-0114": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0114.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7701000092502259
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0034-0115": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0115.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7675933652678075
+      },
+      "indicators": [
+        "MOM",
+        "CCI",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0035-0116": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0116.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7659953080720854
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0035-0117": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0117.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7652948283028068
+      },
+      "indicators": [
+        "MOM",
+        "CCI",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0036-0118": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0118.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7706128112230695
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0036-0119": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0119.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7701292187896261
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0037-0120": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0120.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7689528056420515
+      },
+      "indicators": [
+        "BB",
+        "MOM",
+        "CCI",
+        "EMA"
+      ]
+    },
+    "AG-0037-0121": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0121.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7671832423770379
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0038-0122": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0122.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7637375420568407
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0038-0123": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0123.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7631751890823434
+      },
+      "indicators": [
+        "MOM",
+        "CCI",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0039-0124": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0124.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7671386950154491
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0039-0125": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0125.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7656984471005879
+      },
+      "indicators": [
+        "EMA",
+        "CCI",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0040-0126": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0126.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7657986789019215
+      },
+      "indicators": [
+        "MOM",
+        "BB",
+        "EMA",
+        "CCI"
+      ]
+    },
+    "AG-0040-0127": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0127.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7640604597425888
+      },
+      "indicators": [
+        "EMA",
+        "CCI",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0041-0128": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0128.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7704135210859548
+      },
+      "indicators": [
+        "MOM",
+        "BB",
+        "EMA",
+        "CCI"
+      ]
+    },
+    "AG-0041-0129": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0129.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7647844022462766
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "CCI",
+        "BB"
+      ]
+    },
+    "AG-0042-0130": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0130.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.767232876243971
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0042-0131": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0131.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7663436413444673
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0043-0132": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0132.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7658472822215081
+      },
+      "indicators": [
+        "EMA",
+        "MOM",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0043-0133": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0133.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.764391974131553
+      },
+      "indicators": [
+        "CCI",
+        "MOM",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0044-0134": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0134.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.767609558587521
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0044-0135": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0135.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7643283572349648
+      },
+      "indicators": [
+        "MOM",
+        "CCI",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0045-0136": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0136.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7679321957184863
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0045-0137": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0137.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7652263090935196
+      },
+      "indicators": [
+        "BB",
+        "MOM",
+        "EMA",
+        "CCI"
+      ]
+    },
+    "AG-0046-0138": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0138.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7684973775985315
+      },
+      "indicators": [
+        "CCI",
+        "MOM",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0046-0139": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0139.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7676259911538491
+      },
+      "indicators": [
+        "BB",
+        "EMA",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0047-0140": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0140.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7655824211658374
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "CCI",
+        "MOM"
+      ]
+    },
+    "AG-0047-0141": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0141.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7634714663253737
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "MOM",
+        "EMA"
+      ]
+    },
+    "AG-0048-0142": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0142.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7669483902451049
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0048-0143": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0143.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7657827912577144
+      },
+      "indicators": [
+        "MOM",
+        "EMA",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0049-0144": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0144.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7657786857535648
+      },
+      "indicators": [
+        "BB",
+        "MOM",
+        "CCI",
+        "EMA"
+      ]
+    },
+    "AG-0049-0145": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0145.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.765468439204859
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "MOM",
+        "CCI"
+      ]
+    },
+    "AG-0000-0146": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0146.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4611626170592486
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0000-0147": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0147.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4588424184087616
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0001-0148": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0148.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4570424231095083
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "RSI",
+        "WMA",
+        "ROC"
+      ]
+    },
+    "AG-0001-0149": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0149.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4520507380793922
+      },
+      "indicators": [
+        "BB",
+        "WMA",
+        "EMA",
+        "SMA",
+        "STOCH",
+        "MACD",
+        "ADX",
+        "ROC"
+      ]
+    },
+    "AG-0002-0150": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0150.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4586818876943032
+      },
+      "indicators": [
+        "SMA",
+        "ADX",
+        "ROC",
+        "BB"
+      ]
+    },
+    "AG-0002-0151": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0151.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4549090985080372
+      },
+      "indicators": [
+        "SMA",
+        "RSI",
+        "CCI",
+        "STOCH",
+        "ADX"
+      ]
+    },
+    "AG-0003-0152": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0152.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4599855237328375
+      },
+      "indicators": [
+        "RSI",
+        "STOCH",
+        "MACD",
+        "EMA"
+      ]
+    },
+    "AG-0003-0153": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0153.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.457032171698941
+      },
+      "indicators": [
+        "RSI",
+        "BB",
+        "CCI",
+        "WMA"
+      ]
+    },
+    "AG-0004-0154": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0154.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46902747986076976
+      },
+      "indicators": [
+        "MOM",
+        "RSI",
+        "CCI",
+        "ROC"
+      ]
+    },
+    "AG-0004-0155": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0155.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4602873985417241
+      },
+      "indicators": [
+        "EMA",
+        "ADX",
+        "BB",
+        "MACD",
+        "WMA"
+      ]
+    },
+    "AG-0005-0156": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0156.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4579185329681478
+      },
+      "indicators": [
+        "WMA",
+        "ADX",
+        "MACD",
+        "MOM",
+        "ROC"
+      ]
+    },
+    "AG-0005-0157": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0157.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4569592586903544
+      },
+      "indicators": [
+        "MACD",
+        "STOCH",
+        "CCI",
+        "EMA",
+        "ROC"
+      ]
+    },
+    "AG-0006-0158": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0158.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45744449035256035
+      },
+      "indicators": [
+        "EMA",
+        "WMA",
+        "BB",
+        "ADX",
+        "ROC"
+      ]
+    },
+    "AG-0006-0159": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0159.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4555355274222335
+      },
+      "indicators": [
+        "BB",
+        "WMA",
+        "SMA",
+        "RSI"
+      ]
+    },
+    "AG-0007-0160": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0160.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7448182487348748
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "SMA",
+        "ATR"
+      ]
+    },
+    "AG-0007-0161": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0161.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4604108415020586
+      },
+      "indicators": [
+        "ROC",
+        "MACD",
+        "EMA",
+        "RSI",
+        "BB",
+        "SMA",
+        "CCI"
+      ]
+    },
+    "AG-0008-0162": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0162.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7502435278252564
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "SMA",
+        "ATR"
+      ]
+    },
+    "AG-0008-0163": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0163.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4603553582429539
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "SMA",
+        "ROC",
+        "BB",
+        "WMA"
+      ]
+    },
+    "AG-0009-0164": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0164.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.74616738904103
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "SMA",
+        "ATR"
+      ]
+    },
+    "AG-0009-0165": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0165.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45529360263163193
+      },
+      "indicators": [
+        "ADX",
+        "EMA",
+        "STOCH",
+        "MACD"
+      ]
+    },
+    "AG-0010-0166": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0166.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7502771304612106
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "SMA",
+        "ATR"
+      ]
+    },
+    "AG-0010-0167": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0167.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7448780957520845
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "ATR",
+        "SMA"
+      ]
+    },
+    "AG-0011-0168": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0168.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7550907912172604
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0011-0169": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0169.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7478449468940065
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "ATR",
+        "SMA"
+      ]
+    },
+    "AG-0012-0170": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0170.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7527201850315481
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0012-0171": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0171.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7491821712036677
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "MACD",
+        "ATR"
+      ]
+    },
+    "AG-0013-0172": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0172.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7507407835669575
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "ATR",
+        "SMA"
+      ]
+    },
+    "AG-0013-0173": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0173.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7486112348699954
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0014-0174": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0174.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7505399221457535
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "ATR",
+        "SMA"
+      ]
+    },
+    "AG-0014-0175": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0175.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7494312310982977
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0015-0176": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0176.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7561841225038066
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0015-0177": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0177.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7532601014413719
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "ATR",
+        "MACD"
+      ]
+    },
+    "AG-0016-0178": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0178.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7543960553868918
+      },
+      "indicators": [
+        "SMA",
+        "MACD",
+        "ATR",
+        "OBV"
+      ]
+    },
+    "AG-0016-0179": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0179.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.753133170893307
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "ATR",
+        "MACD"
+      ]
+    },
+    "AG-0017-0180": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0180.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.758181525999317
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "ATR",
+        "MACD"
+      ]
+    },
+    "AG-0017-0181": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0181.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7563762319296972
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0018-0182": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0182.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7588116753441432
+      },
+      "indicators": [
+        "ATR",
+        "OBV",
+        "MACD",
+        "SMA"
+      ]
+    },
+    "AG-0018-0183": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0183.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7563555804352412
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0019-0184": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0184.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7603716549430644
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0019-0185": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0185.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7591032200878882
+      },
+      "indicators": [
+        "ROC",
+        "BB",
+        "OBV",
+        "SMA"
+      ]
+    },
+    "AG-0020-0186": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0186.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7641660162647426
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "ROC",
+        "OBV"
+      ]
+    },
+    "AG-0020-0187": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0187.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7638524223034802
+      },
+      "indicators": [
+        "ROC",
+        "OBV",
+        "BB",
+        "SMA"
+      ]
+    },
+    "AG-0021-0188": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0188.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7682487737555769
+      },
+      "indicators": [
+        "SMA",
+        "ROC",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0021-0189": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0189.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7666637142811855
+      },
+      "indicators": [
+        "OBV",
+        "BB",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0022-0190": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0190.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7619326739439688
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0022-0191": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0191.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7602233771692988
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0023-0192": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0192.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7647412991728014
+      },
+      "indicators": [
+        "CCI",
+        "SMA",
+        "ROC",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0023-0193": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0193.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7626598134246733
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0024-0194": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0194.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7660723272791694
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0024-0195": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0195.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.762694184164135
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0025-0196": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0196.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7640915801544549
+      },
+      "indicators": [
+        "OBV",
+        "BB",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0025-0197": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0197.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7636148782965874
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "SMA",
+        "BB"
+      ]
+    },
+    "AG-0026-0198": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0198.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7645160205487587
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "BB",
+        "ROC"
+      ]
+    },
+    "AG-0026-0199": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0199.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7629213715453864
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0027-0200": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0200.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7614169640077728
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0027-0201": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0201.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7613900027208275
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0028-0202": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0202.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7666443818314005
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0028-0203": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0203.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.76237884836339
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0029-0204": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0204.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7574239187302864
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0029-0205": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0205.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7572276285192482
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0030-0206": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0206.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7640079419050393
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0030-0207": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0207.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.761579451964275
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0031-0208": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0208.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7640904203371915
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0031-0209": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0209.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7603227878549302
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0032-0210": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0210.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7592690578329429
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0032-0211": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0211.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7555281715125993
+      },
+      "indicators": [
+        "OBV",
+        "SMA",
+        "BB",
+        "ROC"
+      ]
+    },
+    "AG-0033-0212": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0212.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7624245580512907
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0033-0213": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0213.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7585280759037227
+      },
+      "indicators": [
+        "BB",
+        "ROC",
+        "SMA",
+        "OBV"
+      ]
+    },
+    "AG-0034-0214": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0214.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7626860207282637
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0034-0215": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0215.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7620212430679956
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0035-0216": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0216.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.763680080050276
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0035-0217": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0217.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7624851403383397
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0036-0218": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0218.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7617175342289887
+      },
+      "indicators": [
+        "OBV",
+        "SMA",
+        "BB",
+        "ROC"
+      ]
+    },
+    "AG-0036-0219": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0219.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7608262213317449
+      },
+      "indicators": [
+        "OBV",
+        "BB",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0037-0220": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0220.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7639948624955174
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "SMA",
+        "BB"
+      ]
+    },
+    "AG-0037-0221": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0221.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7620781898497861
+      },
+      "indicators": [
+        "OBV",
+        "BB",
+        "ROC",
+        "SMA"
+      ]
+    },
+    "AG-0038-0222": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0222.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.762961212183739
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0038-0223": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0223.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7599927702060946
+      },
+      "indicators": [
+        "SMA",
+        "OBV",
+        "ROC",
+        "BB"
+      ]
+    },
+    "AG-0039-0224": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0224.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7611359005498257
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0039-0225": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0225.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7598081387648336
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "BB",
+        "SMA"
+      ]
+    },
+    "AG-0040-0226": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0226.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7624191129483178
+      },
+      "indicators": [
+        "BB",
+        "ROC",
+        "OBV",
+        "SMA"
+      ]
+    },
+    "AG-0040-0227": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0227.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.762220473945065
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "MEDPRICE",
+        "ROC"
+      ]
+    },
+    "AG-0041-0228": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0228.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7663942976612933
+      },
+      "indicators": [
+        "BB",
+        "SMA",
+        "MEDPRICE",
+        "ROC"
+      ]
+    },
+    "AG-0041-0229": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0229.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7638896445395778
+      },
+      "indicators": [
+        "ROC",
+        "BB",
+        "OBV",
+        "SMA"
+      ]
+    },
+    "AG-0042-0230": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0230.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7692240630369981
+      },
+      "indicators": [
+        "ROC",
+        "OBV",
+        "VWMA",
+        "SMA"
+      ]
+    },
+    "AG-0042-0231": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0231.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7622549515352398
+      },
+      "indicators": [
+        "ROC",
+        "BB",
+        "SMA",
+        "OBV"
+      ]
+    },
+    "AG-0043-0232": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0232.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7612089550422179
+      },
+      "indicators": [
+        "SMA",
+        "ROC",
+        "OBV",
+        "BB"
+      ]
+    },
+    "AG-0043-0233": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0233.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7605401570483068
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0044-0234": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0234.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7614400810199904
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "SMA",
+        "BB"
+      ]
+    },
+    "AG-0044-0235": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0235.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7586311449247134
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0045-0236": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0236.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7576259327047957
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "SMA",
+        "BB"
+      ]
+    },
+    "AG-0045-0237": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0237.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7566536592767036
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0046-0238": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0238.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7601399992568103
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0046-0239": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0239.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7579011837831304
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "SMA",
+        "BB"
+      ]
+    },
+    "AG-0047-0240": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0240.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7644188733186276
+      },
+      "indicators": [
+        "SMA",
+        "ROC",
+        "BBANDS",
+        "BB"
+      ]
+    },
+    "AG-0047-0241": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0241.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7642555712375956
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0048-0242": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0242.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7659601292267533
+      },
+      "indicators": [
+        "VWMA",
+        "BB",
+        "SMA",
+        "VWAP",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0048-0243": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0243.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7606781794051167
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0049-0244": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0244.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7617738239945681
+      },
+      "indicators": [
+        "SMA",
+        "BB",
+        "OBV",
+        "ROC"
+      ]
+    },
+    "AG-0049-0245": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0245.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.759579549858164
+      },
+      "indicators": [
+        "BB",
+        "OBV",
+        "SMA",
+        "ROC"
+      ]
+    },
+    "AG-0000-0246": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0246.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4545603137497766
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0000-0247": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0247.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.44930531439065524
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0001-0248": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0248.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45498289984549944
+      },
+      "indicators": [
+        "EMA",
+        "BB",
+        "WMA",
+        "ATR",
+        "MOM",
+        "STOCH"
+      ]
+    },
+    "AG-0001-0249": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0249.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45285234539131336
+      },
+      "indicators": [
+        "RSI",
+        "ROC",
+        "STOCH",
+        "SMA",
+        "BB",
+        "ADX",
+        "EMA"
+      ]
+    },
+    "AG-0002-0250": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0250.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45724700073574104
+      },
+      "indicators": [
+        "MACD",
+        "ATR",
+        "WMA",
+        "BB",
+        "SMA",
+        "RSI"
+      ]
+    },
+    "AG-0002-0251": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0251.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4524074770254593
+      },
+      "indicators": [
+        "EMA",
+        "CCI",
+        "STOCH",
+        "RSI"
+      ]
+    },
+    "AG-0003-0252": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0252.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4625811711054474
+      },
+      "indicators": [
+        "EMA",
+        "MACD",
+        "RSI",
+        "ROC",
+        "WMA"
+      ]
+    },
+    "AG-0003-0253": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0253.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45151586558647044
+      },
+      "indicators": [
+        "ADX",
+        "WMA",
+        "EMA",
+        "ROC",
+        "RSI"
+      ]
+    },
+    "AG-0004-0254": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0254.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4717731283878669
+      },
+      "indicators": [
+        "CCI",
+        "ADX",
+        "RSI",
+        "WMA",
+        "ROC",
+        "EMA"
+      ]
+    },
+    "AG-0004-0255": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0255.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4666200242161754
+      },
+      "indicators": [
+        "MACD",
+        "ADX",
+        "WMA",
+        "ROC",
+        "EMA",
+        "ATR",
+        "RSI"
+      ]
+    },
+    "AG-0005-0256": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0256.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46368643323342906
+      },
+      "indicators": [
+        "EMA",
+        "ROC",
+        "RSI",
+        "WMA",
+        "MACD"
+      ]
+    },
+    "AG-0005-0257": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0257.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4603168053605138
+      },
+      "indicators": [
+        "STOCH",
+        "WMA",
+        "BB",
+        "EMA",
+        "CCI",
+        "SMA",
+        "MACD"
+      ]
+    },
+    "AG-0006-0258": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0258.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46385499107770656
+      },
+      "indicators": [
+        "ROC",
+        "SMA",
+        "WMA",
+        "MACD"
+      ]
+    },
+    "AG-0006-0259": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0259.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4607978874879664
+      },
+      "indicators": [
+        "WMA",
+        "ROC",
+        "BB",
+        "PIVOTS",
+        "ADX"
+      ]
+    },
+    "AG-0007-0260": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0260.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46139775634914365
+      },
+      "indicators": [
+        "EMA",
+        "SMA",
+        "MACD",
+        "BB",
+        "RSI",
+        "STOCH",
+        "CCI"
+      ]
+    },
+    "AG-0007-0261": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0261.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45913017943562806
+      },
+      "indicators": [
+        "MACD",
+        "STOCH",
+        "BB",
+        "SMA",
+        "RSI",
+        "ROC",
+        "ATR"
+      ]
+    },
+    "AG-0008-0262": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0262.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4613229096159771
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "BB",
+        "EMA"
+      ]
+    },
+    "AG-0008-0263": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0263.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45093301230515703
+      },
+      "indicators": [
+        "ROC",
+        "CCI",
+        "STOCH",
+        "BB"
+      ]
+    },
+    "AG-0009-0264": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0264.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.461738507575573
+      },
+      "indicators": [
+        "MACD",
+        "STOCH",
+        "PIVOTS",
+        "ADX"
+      ]
+    },
+    "AG-0009-0265": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0265.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45256458573639724
+      },
+      "indicators": [
+        "EMA",
+        "WMA",
+        "CCI",
+        "RSI",
+        "STOCH",
+        "BBANDS",
+        "MACD"
+      ]
+    },
+    "AG-0010-0266": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0266.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.465651052336967
+      },
+      "indicators": [
+        "BB",
+        "RSI",
+        "ROC",
+        "PIVOTS",
+        "STOCH"
+      ]
+    },
+    "AG-0010-0267": {
+      "generation": 10,
+      "path": "results/generation_10/AG-0010-0267.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4565495620146999
+      },
+      "indicators": [
+        "ROC",
+        "RSI",
+        "BB",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0011-0268": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0268.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45871111207535314
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "ATR",
+        "PIVOTS",
+        "MACD"
+      ]
+    },
+    "AG-0011-0269": {
+      "generation": 11,
+      "path": "results/generation_11/AG-0011-0269.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45763468220384035
+      },
+      "indicators": [
+        "RSI",
+        "STOCH",
+        "BB",
+        "PIVOTS"
+      ]
+    },
+    "AG-0012-0270": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0270.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4677057601752485
+      },
+      "indicators": [
+        "CCI",
+        "PIVOTS",
+        "MACD",
+        "ATR",
+        "ROC",
+        "ADX"
+      ]
+    },
+    "AG-0012-0271": {
+      "generation": 12,
+      "path": "results/generation_12/AG-0012-0271.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4640574558648426
+      },
+      "indicators": [
+        "ATR",
+        "PIVOTS",
+        "ADX",
+        "ROC"
+      ]
+    },
+    "AG-0013-0272": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0272.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4639991495278346
+      },
+      "indicators": [
+        "PIVOTS",
+        "STOCH",
+        "ROC",
+        "CCI",
+        "RSI",
+        "MACD",
+        "ATR",
+        "BB"
+      ]
+    },
+    "AG-0013-0273": {
+      "generation": 13,
+      "path": "results/generation_13/AG-0013-0273.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4600748961572927
+      },
+      "indicators": [
+        "ADX",
+        "OBV",
+        "PIVOTS",
+        "RSI",
+        "BB",
+        "STOCH"
+      ]
+    },
+    "AG-0014-0274": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0274.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46419435116983543
+      },
+      "indicators": [
+        "BBANDS",
+        "CCI",
+        "STOCH",
+        "BB",
+        "RSI",
+        "PIVOTS",
+        "MACD",
+        "ROC"
+      ]
+    },
+    "AG-0014-0275": {
+      "generation": 14,
+      "path": "results/generation_14/AG-0014-0275.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46098970246252924
+      },
+      "indicators": [
+        "OBV",
+        "ROC",
+        "EMA",
+        "BB",
+        "BBANDS",
+        "STOCH",
+        "PIVOTS"
+      ]
+    },
+    "AG-0015-0276": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0276.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46507168543752475
+      },
+      "indicators": [
+        "BBANDS",
+        "CCI",
+        "STOCH",
+        "BB",
+        "RSI",
+        "PIVOTS",
+        "MACD",
+        "ROC"
+      ]
+    },
+    "AG-0015-0277": {
+      "generation": 15,
+      "path": "results/generation_15/AG-0015-0277.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46430624130748266
+      },
+      "indicators": [
+        "BB",
+        "MACD",
+        "ROC",
+        "RSI",
+        "ADX",
+        "PIVOTS"
+      ]
+    },
+    "AG-0016-0278": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0278.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46501666428788624
+      },
+      "indicators": [
+        "CCI",
+        "ATR",
+        "STOCH",
+        "MACD",
+        "BB",
+        "RSI",
+        "StochRSI"
+      ]
+    },
+    "AG-0016-0279": {
+      "generation": 16,
+      "path": "results/generation_16/AG-0016-0279.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4561242451400238
+      },
+      "indicators": [
+        "STOCH",
+        "RSI",
+        "CCI",
+        "ADL",
+        "ADXR",
+        "MACD"
+      ]
+    },
+    "AG-0017-0280": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0280.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4652292320063914
+      },
+      "indicators": [
+        "MACD",
+        "PIVOTS",
+        "RSI",
+        "ROC",
+        "EMA",
+        "OBV",
+        "ADX"
+      ]
+    },
+    "AG-0017-0281": {
+      "generation": 17,
+      "path": "results/generation_17/AG-0017-0281.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4560842480138845
+      },
+      "indicators": [
+        "MACD",
+        "StochRSI",
+        "BBANDS",
+        "RSI",
+        "STOCH"
+      ]
+    },
+    "AG-0018-0282": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0282.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4639401737837521
+      },
+      "indicators": [
+        "RSI",
+        "BBANDS",
+        "ROC",
+        "ADX",
+        "EMA",
+        "ATR"
+      ]
+    },
+    "AG-0018-0283": {
+      "generation": 18,
+      "path": "results/generation_18/AG-0018-0283.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45392269163541604
+      },
+      "indicators": [
+        "OBV",
+        "RSI",
+        "EMA",
+        "CCI",
+        "MACD",
+        "ADX",
+        "ROC"
+      ]
+    },
+    "AG-0019-0284": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0284.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45609770642268643
+      },
+      "indicators": [
+        "BBANDS",
+        "MACD",
+        "ADX",
+        "ATR",
+        "ROC",
+        "RSI"
+      ]
+    },
+    "AG-0019-0285": {
+      "generation": 19,
+      "path": "results/generation_19/AG-0019-0285.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4519504790947022
+      },
+      "indicators": [
+        "CCI",
+        "StochRSI",
+        "BB",
+        "ADX",
+        "BBANDS",
+        "STOCH",
+        "PIVOTS"
+      ]
+    },
+    "AG-0020-0286": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0286.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46628233815055525
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "RSI",
+        "ATR",
+        "MACD",
+        "ADX"
+      ]
+    },
+    "AG-0020-0287": {
+      "generation": 20,
+      "path": "results/generation_20/AG-0020-0287.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4585344530935703
+      },
+      "indicators": [
+        "MOM",
+        "ADX",
+        "BBANDS",
+        "BB",
+        "StochRSI",
+        "VWMA",
+        "STOCH"
+      ]
+    },
+    "AG-0021-0288": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0288.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4562527024176808
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "BBANDS",
+        "StochRSI",
+        "CCI",
+        "BB",
+        "PIVOTS",
+        "VWMA"
+      ]
+    },
+    "AG-0021-0289": {
+      "generation": 21,
+      "path": "results/generation_21/AG-0021-0289.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4549199318482667
+      },
+      "indicators": [
+        "MOM",
+        "ADX",
+        "BBANDS",
+        "BB",
+        "StochRSI",
+        "VWMA",
+        "STOCH"
+      ]
+    },
+    "AG-0022-0290": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0290.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4588680034384456
+      },
+      "indicators": [
+        "StochRSI",
+        "CCI",
+        "STOCH",
+        "BB"
+      ]
+    },
+    "AG-0022-0291": {
+      "generation": 22,
+      "path": "results/generation_22/AG-0022-0291.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45386742693821214
+      },
+      "indicators": [
+        "VWMA",
+        "BBANDS",
+        "MOM",
+        "TSMA"
+      ]
+    },
+    "AG-0023-0292": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0292.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45574891258513156
+      },
+      "indicators": [
+        "BB",
+        "ADX",
+        "BBANDS",
+        "MOM",
+        "VWMA"
+      ]
+    },
+    "AG-0023-0293": {
+      "generation": 23,
+      "path": "results/generation_23/AG-0023-0293.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45278164908662183
+      },
+      "indicators": [
+        "StochRSI",
+        "STOCH",
+        "VWMA",
+        "BB",
+        "BBANDS",
+        "MOM",
+        "ADX"
+      ]
+    },
+    "AG-0024-0294": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0294.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4619802752647514
+      },
+      "indicators": [
+        "MACD",
+        "BB",
+        "BBANDS",
+        "APZ",
+        "CCI",
+        "OBV"
+      ]
+    },
+    "AG-0024-0295": {
+      "generation": 24,
+      "path": "results/generation_24/AG-0024-0295.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45328970179049144
+      },
+      "indicators": [
+        "OBV",
+        "CCI",
+        "APZ",
+        "MOM",
+        "StochRSI"
+      ]
+    },
+    "AG-0025-0296": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0296.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4605652938086159
+      },
+      "indicators": [
+        "BB",
+        "CCI",
+        "PIVOTS",
+        "OBV",
+        "BBANDS",
+        "MACD"
+      ]
+    },
+    "AG-0025-0297": {
+      "generation": 25,
+      "path": "results/generation_25/AG-0025-0297.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4545513444840764
+      },
+      "indicators": [
+        "WMA",
+        "OBV",
+        "APZ",
+        "MOM"
+      ]
+    },
+    "AG-0026-0298": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0298.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4564883223437307
+      },
+      "indicators": [
+        "StochRSI",
+        "BB",
+        "PIVOTS",
+        "APZ",
+        "MOM",
+        "OBV",
+        "BBANDS",
+        "MACD"
+      ]
+    },
+    "AG-0026-0299": {
+      "generation": 26,
+      "path": "results/generation_26/AG-0026-0299.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4560386339157271
+      },
+      "indicators": [
+        "PIVOTS",
+        "PVT",
+        "OBV",
+        "BB",
+        "CCI",
+        "BBANDS"
+      ]
+    },
+    "AG-0027-0300": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0300.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4519668020747432
+      },
+      "indicators": [
+        "MACD",
+        "OBV",
+        "CCI",
+        "BBANDS"
+      ]
+    },
+    "AG-0027-0301": {
+      "generation": 27,
+      "path": "results/generation_27/AG-0027-0301.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.451413961870472
+      },
+      "indicators": [
+        "OBV",
+        "MOM",
+        "APZ",
+        "BBANDS",
+        "CCI",
+        "PIVOTS",
+        "StochRSI",
+        "BB"
+      ]
+    },
+    "AG-0028-0302": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0302.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4594120677266115
+      },
+      "indicators": [
+        "BBANDS",
+        "APZ",
+        "PVT",
+        "PIVOTS",
+        "WMA",
+        "BB",
+        "MOM"
+      ]
+    },
+    "AG-0028-0303": {
+      "generation": 28,
+      "path": "results/generation_28/AG-0028-0303.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45763543155738473
+      },
+      "indicators": [
+        "BBANDS",
+        "VWMA",
+        "APZ",
+        "PIVOTS",
+        "StochRSI"
+      ]
+    },
+    "AG-0029-0304": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0304.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46230367626793
+      },
+      "indicators": [
+        "PVT",
+        "PIVOTS",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0029-0305": {
+      "generation": 29,
+      "path": "results/generation_29/AG-0029-0305.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45781787372874494
+      },
+      "indicators": [
+        "BBANDS",
+        "CCI",
+        "PVT",
+        "BB",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0030-0306": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0306.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4530565833433349
+      },
+      "indicators": [
+        "APZ",
+        "PIVOTS",
+        "StochRSI",
+        "BB",
+        "CCI"
+      ]
+    },
+    "AG-0030-0307": {
+      "generation": 30,
+      "path": "results/generation_30/AG-0030-0307.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4530437188124904
+      },
+      "indicators": [
+        "PIVOTS",
+        "MOM",
+        "ATR",
+        "WMA"
+      ]
+    },
+    "AG-0031-0308": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0308.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4561335760044928
+      },
+      "indicators": [
+        "MOM",
+        "APZ",
+        "WMA",
+        "BBANDS",
+        "BB",
+        "CCI",
+        "PVT"
+      ]
+    },
+    "AG-0031-0309": {
+      "generation": 31,
+      "path": "results/generation_31/AG-0031-0309.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4528342511502605
+      },
+      "indicators": [
+        "PIVOTS",
+        "MOM",
+        "CCI",
+        "APZ"
+      ]
+    },
+    "AG-0032-0310": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0310.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4533349174217728
+      },
+      "indicators": [
+        "PIVOTS",
+        "CCI",
+        "BBANDS",
+        "BB",
+        "StochRSI",
+        "WMA"
+      ]
+    },
+    "AG-0032-0311": {
+      "generation": 32,
+      "path": "results/generation_32/AG-0032-0311.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4522576904501122
+      },
+      "indicators": [
+        "APZ",
+        "PIVOTS",
+        "BBANDS",
+        "BB"
+      ]
+    },
+    "AG-0033-0312": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0312.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4511592202761918
+      },
+      "indicators": [
+        "BB",
+        "APZ",
+        "PIVOTS",
+        "BBANDS"
+      ]
+    },
+    "AG-0033-0313": {
+      "generation": 33,
+      "path": "results/generation_33/AG-0033-0313.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.44963952227241905
+      },
+      "indicators": [
+        "PVT",
+        "VWMA",
+        "CCI",
+        "APZ",
+        "MOM",
+        "BB",
+        "WMA"
+      ]
+    },
+    "AG-0034-0314": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0314.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4562834565818141
+      },
+      "indicators": [
+        "MOM",
+        "WMA",
+        "PVT",
+        "ATR",
+        "VWMA",
+        "BB"
+      ]
+    },
+    "AG-0034-0315": {
+      "generation": 34,
+      "path": "results/generation_34/AG-0034-0315.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4543067805928704
+      },
+      "indicators": [
+        "CCI",
+        "MOM",
+        "PVT",
+        "OBV",
+        "WMA",
+        "BBANDS",
+        "BB",
+        "VWMA"
+      ]
+    },
+    "AG-0035-0316": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0316.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45715743988001944
+      },
+      "indicators": [
+        "WMA",
+        "BB",
+        "MOM",
+        "BBANDS",
+        "PIVOTS",
+        "CCI",
+        "APZ"
+      ]
+    },
+    "AG-0035-0317": {
+      "generation": 35,
+      "path": "results/generation_35/AG-0035-0317.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4548455289354109
+      },
+      "indicators": [
+        "MOM",
+        "WMA",
+        "PVT",
+        "ATR",
+        "VWMA",
+        "BB"
+      ]
+    },
+    "AG-0036-0318": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0318.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4566274807816769
+      },
+      "indicators": [
+        "PVT",
+        "APZ",
+        "PIVOTS",
+        "MOM",
+        "BB"
+      ]
+    },
+    "AG-0036-0319": {
+      "generation": 36,
+      "path": "results/generation_36/AG-0036-0319.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4531207574839441
+      },
+      "indicators": [
+        "APZ",
+        "BBANDS",
+        "WMA",
+        "PIVOTS"
+      ]
+    },
+    "AG-0037-0320": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0320.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45747714957839547
+      },
+      "indicators": [
+        "CCI",
+        "BBANDS",
+        "MOM",
+        "WMA",
+        "APZ",
+        "StochRSI",
+        "STOCH",
+        "PVT"
+      ]
+    },
+    "AG-0037-0321": {
+      "generation": 37,
+      "path": "results/generation_37/AG-0037-0321.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45363544080007234
+      },
+      "indicators": [
+        "APZ",
+        "BBANDS",
+        "BB",
+        "OBV"
+      ]
+    },
+    "AG-0038-0322": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0322.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.763410378238445
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0038-0323": {
+      "generation": 38,
+      "path": "results/generation_38/AG-0038-0323.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45717569037857686
+      },
+      "indicators": [
+        "STOCH",
+        "PIVOTS",
+        "OBV",
+        "WMA",
+        "CCI",
+        "StochRSI",
+        "BB",
+        "BBANDS"
+      ]
+    },
+    "AG-0039-0324": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0324.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7457495166701504
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0039-0325": {
+      "generation": 39,
+      "path": "results/generation_39/AG-0039-0325.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45665335526919176
+      },
+      "indicators": [
+        "WMA",
+        "PVT",
+        "PIVOTS",
+        "BB",
+        "BBANDS",
+        "APZ",
+        "VWMA"
+      ]
+    },
+    "AG-0040-0326": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0326.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7495174584803068
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0040-0327": {
+      "generation": 40,
+      "path": "results/generation_40/AG-0040-0327.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.456303151689903
+      },
+      "indicators": [
+        "STOCH",
+        "BB",
+        "MOM",
+        "BBANDS",
+        "APZ",
+        "CCI",
+        "PIVOTS",
+        "PVT"
+      ]
+    },
+    "AG-0041-0328": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0328.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7566418626219922
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0041-0329": {
+      "generation": 41,
+      "path": "results/generation_41/AG-0041-0329.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45631697521242875
+      },
+      "indicators": [
+        "VWMA",
+        "PIVOTS",
+        "CCI",
+        "OBV",
+        "MACD",
+        "APZ"
+      ]
+    },
+    "AG-0042-0330": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0330.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7605448415889248
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0042-0331": {
+      "generation": 42,
+      "path": "results/generation_42/AG-0042-0331.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4536088085372167
+      },
+      "indicators": [
+        "ROC",
+        "OBV",
+        "RSI",
+        "CHAIKIN",
+        "ATR",
+        "EMA"
+      ]
+    },
+    "AG-0043-0332": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0332.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7616198793588249
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0043-0333": {
+      "generation": 43,
+      "path": "results/generation_43/AG-0043-0333.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4550686597740895
+      },
+      "indicators": [
+        "OBV",
+        "MACD",
+        "RSI",
+        "BBANDS",
+        "CCI",
+        "STOCH"
+      ]
+    },
+    "AG-0044-0334": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0334.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7404339264943613
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0044-0335": {
+      "generation": 44,
+      "path": "results/generation_44/AG-0044-0335.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45029185597411947
+      },
+      "indicators": [
+        "OBV",
+        "STOCH",
+        "CCI",
+        "StochRSI",
+        "WMA",
+        "PIVOTS",
+        "RSI",
+        "CHAIKIN"
+      ]
+    },
+    "AG-0045-0336": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0336.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7581113353336355
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0045-0337": {
+      "generation": 45,
+      "path": "results/generation_45/AG-0045-0337.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4529557973552446
+      },
+      "indicators": [
+        "KAMA",
+        "ATR",
+        "WMA",
+        "BB",
+        "APZ"
+      ]
+    },
+    "AG-0046-0338": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0338.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7501604762770162
+      },
+      "indicators": [
+        "APZ",
+        "SMA",
+        "OBV",
+        "MACD"
+      ]
+    },
+    "AG-0046-0339": {
+      "generation": 46,
+      "path": "results/generation_46/AG-0046-0339.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46055403751373397
+      },
+      "indicators": [
+        "SMA",
+        "WMA",
+        "BB",
+        "OBV",
+        "KAMA",
+        "CCI",
+        "MACD"
+      ]
+    },
+    "AG-0047-0340": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0340.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45588465283956797
+      },
+      "indicators": [
+        "ATR",
+        "PIVOTS",
+        "StochRSI",
+        "RSI",
+        "BB",
+        "WMA",
+        "SMA",
+        "CCI"
+      ]
+    },
+    "AG-0047-0341": {
+      "generation": 47,
+      "path": "results/generation_47/AG-0047-0341.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4512986347786052
+      },
+      "indicators": [
+        "KAMA",
+        "RSI",
+        "SMA",
+        "DEMA"
+      ]
+    },
+    "AG-0048-0342": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0342.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7588685853022319
+      },
+      "indicators": [
+        "StochRSI",
+        "WMA",
+        "DEMA",
+        "SMA",
+        "OBV",
+        "APZ"
+      ]
+    },
+    "AG-0048-0343": {
+      "generation": 48,
+      "path": "results/generation_48/AG-0048-0343.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4581809006205685
+      },
+      "indicators": [
+        "OBV",
+        "WMA",
+        "PIVOTS",
+        "KAMA",
+        "APZ",
+        "StochRSI"
+      ]
+    },
+    "AG-0049-0344": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0344.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.7702223974381228
+      },
+      "indicators": [
+        "StochRSI",
+        "WMA",
+        "DEMA",
+        "SMA",
+        "OBV",
+        "APZ"
+      ]
+    },
+    "AG-0049-0345": {
+      "generation": 49,
+      "path": "results/generation_49/AG-0049-0345.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45589918293922116
+      },
+      "indicators": [
+        "WMA",
+        "SMA",
+        "KAMA",
+        "StochRSI",
+        "RSI"
+      ]
+    },
+    "AG-0000-0346": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0346.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.44401604232371805
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0000-0347": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0347.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "RSI",
+        "BB",
+        "SMA",
+        "ADX",
+        "STOCH",
+        "EMA",
+        "ROC"
+      ]
+    },
+    "AG-0001-0348": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0348.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45465306229561653
+      },
+      "indicators": [
+        "ATR",
+        "MOM",
+        "SMA",
+        "CCI",
+        "ADX",
+        "ROC",
+        "EMA"
+      ]
+    },
+    "AG-0001-0349": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0349.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "ATR",
+        "CCI",
+        "ROC",
+        "RSI",
+        "WMA",
+        "ADX"
+      ]
+    },
+    "AG-0002-0350": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0350.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45233385419831257
+      },
+      "indicators": [
+        "RSI",
+        "MACD",
+        "WMA",
+        "CCI",
+        "BB",
+        "STOCH"
+      ]
+    },
+    "AG-0002-0351": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0351.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "STOCH",
+        "WMA",
+        "RSI",
+        "BB"
+      ]
+    },
+    "AG-0003-0352": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0352.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.44893566509475397
+      },
+      "indicators": [
+        "BB",
+        "MACD",
+        "CCI",
+        "RSI",
+        "STOCH",
+        "WMA"
+      ]
+    },
+    "AG-0003-0353": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0353.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "CCI",
+        "STOCH",
+        "WMA",
+        "MACD",
+        "BB",
+        "RSI"
+      ]
+    },
+    "AG-0004-0354": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0354.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4504303920705077
+      },
+      "indicators": [
+        "BB",
+        "MACD",
+        "WMA",
+        "RSI"
+      ]
+    },
+    "AG-0004-0355": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0355.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "MACD",
+        "BB",
+        "WMA",
+        "RSI"
+      ]
+    },
+    "AG-0005-0356": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0356.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45302213055185586
+      },
+      "indicators": [
+        "WMA",
+        "RSI",
+        "BB",
+        "MACD"
+      ]
+    },
+    "AG-0005-0357": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0357.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "MACD",
+        "BB",
+        "RSI",
+        "WMA"
+      ]
+    },
+    "AG-0006-0358": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0358.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45487177354469366
+      },
+      "indicators": [
+        "RSI",
+        "MACD",
+        "BB",
+        "WMA"
+      ]
+    },
+    "AG-0006-0359": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0359.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "MACD",
+        "RSI",
+        "BB",
+        "WMA"
+      ]
+    },
+    "AG-0007-0360": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0360.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45353266422979555
+      },
+      "indicators": [
+        "BB",
+        "WMA",
+        "RSI",
+        "MACD"
+      ]
+    },
+    "AG-0007-0361": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0361.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "WMA",
+        "BB",
+        "RSI",
+        "MACD"
+      ]
+    },
+    "AG-0008-0362": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0362.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45161732520655923
+      },
+      "indicators": [
+        "MACD",
+        "WMA",
+        "RSI",
+        "BB"
+      ]
+    },
+    "AG-0008-0363": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0363.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "DPO",
+        "RSI",
+        "WMA",
+        "BB"
+      ]
+    },
+    "AG-0009-0364": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0364.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45637516050178345
+      },
+      "indicators": [
+        "RSI",
+        "MACD",
+        "WMA",
+        "BB"
+      ]
+    },
+    "AG-0009-0365": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0365.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "RSI",
+        "WMA",
+        "BB",
+        "MACD"
+      ]
+    },
+    "AG-0000-0366": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0366.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4446121020723663
+      },
+      "indicators": [
+        "RSI",
+        "SMA",
+        "EMA",
+        "MACD",
+        "BB",
+        "ATR",
+        "ADX",
+        "CCI",
+        "MOM",
+        "ROC",
+        "WMA",
+        "STOCH"
+      ]
+    },
+    "AG-0000-0367": {
+      "generation": 0,
+      "path": "results/generation_0/AG-0000-0367.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "RSI",
+        "WMA",
+        "MACD",
+        "PIVOTS",
+        "ATR"
+      ]
+    },
+    "AG-0001-0368": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0368.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4575092495650389
+      },
+      "indicators": [
+        "EMA",
+        "ATR",
+        "MOM",
+        "WMA",
+        "SMA"
+      ]
+    },
+    "AG-0001-0369": {
+      "generation": 1,
+      "path": "results/generation_1/AG-0001-0369.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "CCI",
+        "EMA",
+        "ADX",
+        "MACD",
+        "STOCH",
+        "ROC",
+        "ATR",
+        "SMA"
+      ]
+    },
+    "AG-0002-0370": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0370.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.45734221292286553
+      },
+      "indicators": [
+        "ADX",
+        "EMA",
+        "SMA",
+        "ATR",
+        "CCI",
+        "ROC",
+        "STOCH",
+        "MACD"
+      ]
+    },
+    "AG-0002-0371": {
+      "generation": 2,
+      "path": "results/generation_2/AG-0002-0371.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "STOCH",
+        "EMA",
+        "ADX",
+        "ROC",
+        "SMA",
+        "MOM",
+        "MACD",
+        "CCI"
+      ]
+    },
+    "AG-0003-0372": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0372.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4550419961627996
+      },
+      "indicators": [
+        "ADX",
+        "CCI",
+        "MACD",
+        "ROC",
+        "ATR",
+        "EMA",
+        "STOCH"
+      ]
+    },
+    "AG-0003-0373": {
+      "generation": 3,
+      "path": "results/generation_3/AG-0003-0373.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "CCI",
+        "MACD"
+      ]
+    },
+    "AG-0004-0374": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0374.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.46123285623040566
+      },
+      "indicators": [
+        "MACD",
+        "EMA",
+        "CCI",
+        "STOCH"
+      ]
+    },
+    "AG-0004-0375": {
+      "generation": 4,
+      "path": "results/generation_4/AG-0004-0375.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "EMA",
+        "CCI",
+        "MACD",
+        "STOCH"
+      ]
+    },
+    "AG-0005-0376": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0376.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4482444558216292
+      },
+      "indicators": [
+        "EMA",
+        "MACD",
+        "CCI",
+        "STOCH"
+      ]
+    },
+    "AG-0005-0377": {
+      "generation": 5,
+      "path": "results/generation_5/AG-0005-0377.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "STOCH",
+        "MACD",
+        "EMA",
+        "CCI"
+      ]
+    },
+    "AG-0006-0378": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0378.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4537247721023844
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "MACD",
+        "CCI"
+      ]
+    },
+    "AG-0006-0379": {
+      "generation": 6,
+      "path": "results/generation_6/AG-0006-0379.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "VWMA",
+        "RSI",
+        "KC",
+        "SMA",
+        "BBANDS"
+      ]
+    },
+    "AG-0007-0380": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0380.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4531522296359022
+      },
+      "indicators": [
+        "MACD",
+        "EMA",
+        "CCI",
+        "STOCH"
+      ]
+    },
+    "AG-0007-0381": {
+      "generation": 7,
+      "path": "results/generation_7/AG-0007-0381.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "MACD",
+        "CCI",
+        "EMA",
+        "STOCH"
+      ]
+    },
+    "AG-0008-0382": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0382.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.4605473376032769
+      },
+      "indicators": [
+        "MACD",
+        "CCI",
+        "EMA",
+        "STOCH"
+      ]
+    },
+    "AG-0008-0383": {
+      "generation": 8,
+      "path": "results/generation_8/AG-0008-0383.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "CCI",
+        "MACD"
+      ]
+    },
+    "AG-0009-0384": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0384.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.44777457244192076
+      },
+      "indicators": [
+        "EMA",
+        "STOCH",
+        "CCI",
+        "MACD"
+      ]
+    },
+    "AG-0009-0385": {
+      "generation": 9,
+      "path": "results/generation_9/AG-0009-0385.pkl",
+      "metrics": {
+        "sharpe_ratio": 0.0,
+        "profit_factor": 0.0,
+        "drawdown": 0.0,
+        "trades": 0,
+        "fitness": 0.0
+      },
+      "indicators": [
+        "STOCH",
+        "MACD",
+        "EMA",
+        "CCI"
+      ]
+    }
+  }
+}
